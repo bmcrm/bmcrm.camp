@@ -1,0 +1,11 @@
+<svg width="754" height="557" viewBox="0 0 754 557" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="3.14453" y1="553.766" x2="679.202" y2="553.766" stroke="#FFC750" stroke-width="5" stroke-linecap="round"/>
+<line x1="343.274" y1="357.941" x2="343.274" y2="2.00003" stroke="#FFC750" stroke-width="4" stroke-linecap="round"/>
+<line x1="2.5" y1="-2.5" x2="374.111" y2="-2.5" transform="matrix(0.708186 -0.706026 0.708186 0.706026 486.805 427.442)" stroke="#FFC750" stroke-width="5" stroke-linecap="round"/>
+<line x1="2.5" y1="-2.5" x2="366.185" y2="-2.5" transform="matrix(0.708186 0.706026 -0.708186 0.706026 -65 163.6)" stroke="#FFC750" stroke-width="5" stroke-linecap="round"/>
+<line x1="174.965" y1="189.961" x2="261.05" y2="375.653" stroke="#FFC750" stroke-width="5" stroke-linecap="round"/>
+<line x1="2.5" y1="-2.5" x2="202.124" y2="-2.5" transform="matrix(0.42368 -0.905812 0.906801 0.421558 419.125 375.71)" stroke="#FFC750" stroke-width="5" stroke-linecap="round"/>
+<line x1="2.5" y1="-2.5" x2="202.534" y2="-2.5" transform="matrix(0.914006 -0.4057 0.407775 0.913082 525.027 488.951)" stroke="#FFC750" stroke-width="5" stroke-linecap="round"/>
+<line x1="2.5" y1="-2.5" x2="202.534" y2="-2.5" transform="matrix(0.914006 0.4057 -0.407775 0.913082 -23.9727 400.839)" stroke="#FFC750" stroke-width="5" stroke-linecap="round"/>
+<path d="M534.002 552.182C534.002 446.01 447.669 359.941 341.173 359.941C234.676 359.941 148.343 446.01 148.343 552.182" stroke="#FFC750" stroke-width="5" stroke-linecap="round"/>
+</svg>
